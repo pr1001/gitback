@@ -11,3 +11,8 @@ If it's a private repo:
     ./gitback --username=username --password=password username/repo destination/directory
 
 That's it.
+
+## Dependencies
+
+- octokit
+- nokogiri
